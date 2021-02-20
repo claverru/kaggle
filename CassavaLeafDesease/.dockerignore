@@ -1,0 +1,5 @@
+data
+models
+lightning_logs
+zips
+*.zip
